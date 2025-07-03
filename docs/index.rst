@@ -1,4 +1,4 @@
-hitman pro login account
+Hitman pro Login Account | Login Hitman Pro Account
 =========================
 
 .. toctree::
